@@ -1,0 +1,6 @@
+{
+    "mocha": true, // Mocha
+    "node": true, // Node.js
+    "curly": true,
+    "esversion": 6
+}
